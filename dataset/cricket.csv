@@ -1,0 +1,475 @@
+Year,Team 1,Team 2,Score 1,Score 2,Winner
+1975,England,India,92,63,England
+1975,New Zealand,East Africa,101,90,New Zealand
+1975,England,New Zealand,276,251,England
+1975,East Africa,India,74,395,India
+1975,England,East Africa,45,157,England
+1975,India,New Zealand,59,377,New Zealand
+1975,Australia,Pakistan,27,88,Australia
+1975,Sri Lanka,West Indies,349,166,West Indies
+1975,Australia,Sri Lanka,167,386,Australia
+1975,Pakistan,West Indies,268,36,West Indies
+1975,Australia,West Indies,146,94,West Indies
+1975,Pakistan,Sri Lanka,374,215,Pakistan
+1975,England,Australia,120,398,Australia
+1975,New Zealand,West Indies,282,205,West Indies
+1975,West Indies,Australia,336,157,West Indies
+1979,Australia,England,333,123,England
+1979,Canada,Pakistan,154,125,Pakistan
+1979,Pakistan,Australia,191,82,Pakistan
+1979,Canada,England,70,228,England
+1979,Canada,Australia,4,259,Australia
+1979,England,Pakistan,394,172,England
+1979,India,West Indies,200,279,West Indies
+1979,Sri Lanka,New Zealand,312,373,New Zealand
+1979,Sri Lanka,West Indies,138,87,Match abandoned
+1979,India,New Zealand,171,211,New Zealand
+1979,Sri Lanka,India,61,144,Sri Lanka
+1979,West Indies,New Zealand,63,391,West Indies
+1979,West Indies,Pakistan,384,392,West Indies
+1979,England,New Zealand,5,28,England
+1979,West Indies,England,114,270,West Indies
+1983,England,New Zealand,266,136,England
+1983,Pakistan,Sri Lanka,363,208,Pakistan
+1983,England,Sri Lanka,270,134,England
+1983,New Zealand,Pakistan,90,2,New Zealand
+1983,Pakistan,England,333,370,England
+1983,Sri Lanka,New Zealand,283,247,New Zealand
+1983,England,New Zealand,47,165,New Zealand
+1983,Pakistan,Sri Lanka,310,352,Pakistan
+1983,Pakistan,England,2,357,England
+1983,New Zealand,Sri Lanka,329,338,Sri Lanka
+1983,Sri Lanka,England,64,17,England
+1983,Pakistan,New Zealand,226,357,Pakistan
+1983,Zimbabwe,Australia,203,248,Zimbabwe
+1983,India,West Indies,309,316,India
+1983,West Indies,Australia,155,286,West Indies
+1983,Zimbabwe,India,391,386,India
+1983,Australia,India,11,298,Australia
+1983,Zimbabwe,West Indies,367,72,West Indies
+1983,West Indies,India,361,235,West Indies
+1983,Australia,Zimbabwe,10,132,Australia
+1983,Australia,West Indies,346,277,West Indies
+1983,India,Zimbabwe,91,345,India
+1983,India,Australia,27,36,India
+1983,Zimbabwe,West Indies,3,90,West Indies
+1983,England,India,84,6,India
+1983,Pakistan,West Indies,233,365,West Indies
+1983,India,West Indies,337,136,India
+1987,Australia,India,314,72,Australia
+1987,New Zealand,Zimbabwe,135,343,New Zealand
+1987,Australia,Zimbabwe,164,176,Australia
+1987,India,New Zealand,394,141,India
+1987,Zimbabwe,India,34,151,India
+1987,Australia,New Zealand,226,113,Australia
+1987,India,Australia,230,171,India
+1987,Zimbabwe,New Zealand,33,108,New Zealand
+1987,Zimbabwe,India,98,273,India
+1987,Australia,New Zealand,70,355,Australia
+1987,Australia,Zimbabwe,152,153,Australia
+1987,New Zealand,India,220,51,India
+1987,Pakistan,Sri Lanka,131,85,Pakistan
+1987,West Indies,England,187,330,England
+1987,Pakistan,England,88,142,Pakistan
+1987,West Indies,Sri Lanka,352,253,West Indies
+1987,West Indies,Pakistan,121,68,Pakistan
+1987,England,Sri Lanka,357,28,England
+1987,England,Pakistan,372,308,Pakistan
+1987,West Indies,Sri Lanka,199,56,West Indies
+1987,Pakistan,Sri Lanka,180,287,Pakistan
+1987,England,West Indies,213,41,England
+1987,Sri Lanka,England,33,317,England
+1987,West Indies,Pakistan,343,47,West Indies
+1987,Australia,Pakistan,169,183,Australia
+1987,England,India,156,263,England
+1987,Australia,England,38,28,Australia
+1992,New Zealand,Australia,233,270,New Zealand
+1992,England,India,30,251,England
+1992,Zimbabwe,Sri Lanka,269,48,Sri Lanka
+1992,Pakistan,West Indies,24,270,West Indies
+1992,Sri Lanka,New Zealand,327,202,New Zealand
+1992,Australia,South Africa,334,383,South Africa
+1992,Pakistan,Zimbabwe,220,42,Pakistan
+1992,West Indies,England,128,263,England
+1992,India,Sri Lanka,105,296,No result
+1992,South Africa,New Zealand,273,182,New Zealand
+1992,West Indies,Zimbabwe,386,14,West Indies
+1992,Australia,India,86,71,Australia
+1992,Pakistan,England,142,139,No result
+1992,South Africa,Sri Lanka,336,274,Sri Lanka
+1992,New Zealand,Zimbabwe,301,395,New Zealand
+1992,India,Pakistan,158,334,India
+1992,South Africa,West Indies,15,217,South Africa
+1992,Australia,England,58,244,England
+1992,India,Zimbabwe,125,12,India
+1992,Sri Lanka,Australia,261,185,Australia
+1992,West Indies,New Zealand,391,367,New Zealand
+1992,South Africa,Pakistan,257,154,South Africa
+1992,England,Sri Lanka,27,197,England
+1992,India,West Indies,144,195,West Indies
+1992,Zimbabwe,South Africa,209,27,South Africa
+1992,Pakistan,Australia,69,284,Pakistan
+1992,India,New Zealand,165,249,New Zealand
+1992,South Africa,England,110,170,England
+1992,West Indies,Sri Lanka,77,12,West Indies
+1992,Australia,Zimbabwe,206,195,Australia
+1992,England,New Zealand,159,135,New Zealand
+1992,India,South Africa,388,116,South Africa
+1992,Sri Lanka,Pakistan,163,248,Pakistan
+1992,New Zealand,Pakistan,348,331,Pakistan
+1992,Zimbabwe,England,381,56,Zimbabwe
+1992,Australia,West Indies,48,81,Australia
+1992,New Zealand,Pakistan,356,28,Pakistan
+1992,England,South Africa,362,42,England
+1992,Pakistan,England,135,219,Pakistan
+1996,Zimbabwe,West Indies,158,122,West Indies
+1996,Sri Lanka,Australia,74,143,Sri Lanka
+1996,Kenya,India,46,306,India
+1996,Zimbabwe,Sri Lanka,151,267,Sri Lanka
+1996,West Indies,India,199,209,India
+1996,Australia,Kenya,238,154,Australia
+1996,Sri Lanka,West Indies,328,317,Sri Lanka
+1996,Kenya,Zimbabwe,276,339,Zimbabwe
+1996,Australia,India,207,122,Australia
+1996,Kenya,West Indies,228,72,Kenya
+1996,Zimbabwe,Australia,46,50,Australia
+1996,India,Sri Lanka,381,250,Sri Lanka
+1996,Australia,West Indies,45,98,West Indies
+1996,India,Zimbabwe,256,1,India
+1996,Sri Lanka,Kenya,286,84,Sri Lanka
+1996,New Zealand,England,191,282,New Zealand
+1996,South Africa,United Arab Emirates,42,61,South Africa
+1996,New Zealand,Netherlands,249,171,New Zealand
+1996,United Arab Emirates,England,118,174,England
+1996,New Zealand,South Africa,10,123,South Africa
+1996,England,Netherlands,333,74,England
+1996,United Arab Emirates,Pakistan,88,327,Pakistan
+1996,South Africa,England,263,348,South Africa
+1996,Netherlands,Pakistan,275,385,Pakistan
+1996,New Zealand,United Arab Emirates,175,176,New Zealand
+1996,Pakistan,South Africa,142,330,South Africa
+1996,Netherlands,United Arab Emirates,142,133,United Arab
+1996,England,Pakistan,322,16,Pakistan
+1996,South Africa,Netherlands,143,30,South Africa
+1996,Pakistan,New Zealand,396,342,Pakistan
+1996,England,Sri Lanka,257,360,Sri Lanka
+1996,India,Pakistan,390,321,India
+1996,West Indies,South Africa,234,40,West Indies
+1996,New Zealand,Australia,45,390,Australia
+1996,Sri Lanka,India,393,282,Sri Lanka
+1996,Australia,West Indies,135,261,Australia
+1996,Australia,Sri Lanka,50,265,Sri Lanka
+1999,Sri Lanka,England,366,38,England
+1999,India,South Africa,253,322,South Africa
+1999,Kenya,Zimbabwe,111,343,Zimbabwe
+1999,Kenya,England,22,226,England
+1999,Zimbabwe,India,136,393,Zimbabwe
+1999,South Africa,Sri Lanka,293,16,South Africa
+1999,South Africa,England,398,236,South Africa
+1999,Zimbabwe,Sri Lanka,344,39,Sri Lanka
+1999,India,Kenya,157,26,India
+1999,Zimbabwe,England,351,361,England
+1999,Kenya,South Africa,241,318,South Africa
+1999,India,Sri Lanka,3,228,India
+1999,India,England,96,208,India
+1999,Zimbabwe,South Africa,38,285,Zimbabwe
+1999,Sri Lanka,Kenya,276,265,Sri Lanka
+1999,Scotland,Australia,1,162,Australia
+1999,Pakistan,West Indies,240,165,Pakistan
+1999,Bangladesh,New Zealand,340,24,New Zealand
+1999,Australia,New Zealand,280,364,New Zealand
+1999,Pakistan,Scotland,231,330,Pakistan
+1999,Bangladesh,West Indies,362,133,West Indies
+1999,Pakistan,Australia,108,160,Pakistan
+1999,Bangladesh,Scotland,187,324,Bangladesh
+1999,New Zealand,West Indies,180,246,West Indies
+1999,Bangladesh,Australia,12,60,Australia
+1999,Scotland,West Indies,200,152,West Indies
+1999,Pakistan,New Zealand,300,39,Pakistan
+1999,West Indies,Australia,299,360,Australia
+1999,Bangladesh,Pakistan,254,122,Bangladesh
+1999,Scotland,New Zealand,189,50,New Zealand
+1999,Australia,India,319,44,Australia
+1999,Pakistan,South Africa,158,273,South Africa
+1999,Zimbabwe,New Zealand,243,139,No result
+1999,India,Pakistan,276,397,India
+1999,Australia,Zimbabwe,124,269,Australia
+1999,South Africa,New Zealand,350,261,South Africa
+1999,Pakistan,Zimbabwe,113,48,Pakistan
+1999,India,New Zealand,224,39,New Zealand
+1999,South Africa,Australia,230,391,Australia
+1999,New Zealand,Pakistan,312,346,Pakistan
+1999,Australia,South Africa,344,177,Match tied
+1999,Pakistan,Australia,86,208,Australia
+2003,Zimbabwe,Namibia,206,253,Zimbabwe
+2003,Australia,Pakistan,359,154,Australia
+2003,India,Netherlands,16,202,India
+2003,Zimbabwe,England,168,27,Zimbabwe
+2003,India,Australia,254,245,Australia
+2003,Netherlands,England,12,377,England
+2003,Pakistan,Namibia,324,342,Pakistan
+2003,India,Zimbabwe,158,6,India
+2003,England,Namibia,131,272,England
+2003,Australia,Netherlands,70,92,Australia
+2003,England,Pakistan,40,165,England
+2003,India,Namibia,399,185,India
+2003,Zimbabwe,Australia,308,238,Australia
+2003,Pakistan,Netherlands,92,219,Pakistan
+2003,India,England,306,302,India
+2003,Australia,Namibia,54,399,Australia
+2003,Zimbabwe,Netherlands,318,62,Zimbabwe
+2003,Pakistan,India,377,167,India
+2003,England,Australia,247,155,Australia
+2003,Netherlands,Namibia,110,248,Netherlands
+2003,Pakistan,Zimbabwe,96,42,No result
+2003,West Indies,South Africa,265,268,West Indies
+2003,Sri Lanka,New Zealand,83,326,Sri Lanka
+2003,Canada,Bangladesh,292,284,Canada
+2003,Kenya,South Africa,388,21,South Africa
+2003,New Zealand,West Indies,294,100,New Zealand
+2003,Bangladesh,Sri Lanka,272,291,Sri Lanka
+2003,Canada,Kenya,269,202,Kenya
+2003,South Africa,New Zealand,98,215,New Zealand
+2003,West Indies,Bangladesh,10,374,No result
+2003,Canada,Sri Lanka,372,181,Sri Lanka
+2003,Kenya,New Zealand,190,375,Kenya
+2003,Bangladesh,South Africa,95,194,South Africa
+2003,Canada,West Indies,382,134,West Indies
+2003,Kenya,Sri Lanka,367,291,Kenya
+2003,Bangladesh,New Zealand,17,37,New Zealand
+2003,South Africa,Canada,95,358,South Africa
+2003,Sri Lanka,West Indies,185,134,Sri Lanka
+2003,Kenya,Bangladesh,375,91,Kenya
+2003,Canada,New Zealand,323,192,New Zealand
+2003,Sri Lanka,South Africa,83,247,Match tied
+2003,West Indies,Kenya,203,244,West Indies
+2003,Australia,Sri Lanka,322,308,Australia
+2003,Kenya,India,136,335,India
+2003,Zimbabwe,New Zealand,145,259,New Zealand
+2003,India,Sri Lanka,342,105,India
+2003,Australia,New Zealand,3,357,Australia
+2003,Zimbabwe,Kenya,225,361,Kenya
+2003,New Zealand,India,380,180,India
+2003,Sri Lanka,Zimbabwe,395,51,Sri Lanka
+2003,Kenya,Australia,112,136,Australia
+2003,Australia,Sri Lanka,38,191,Australia
+2003,India,Kenya,369,42,India
+2003,Australia,India,72,382,Australia
+2007,Australia,Scotland,200,120,Australia
+2007,South Africa,Netherlands,30,345,South Africa
+2007,Australia,Netherlands,328,40,Australia
+2007,Scotland,South Africa,386,325,South Africa
+2007,Scotland,Netherlands,245,298,Netherlands
+2007,Australia,South Africa,104,375,Australia
+2007,Sri Lanka,Bermuda,239,384,Bermuda
+2007,India,Bangladesh,121,283,Bangladesh
+2007,India,Bermuda,92,35,India
+2007,Sri Lanka,Bangladesh,37,34,Sri Lanka
+2007,Sri Lanka,India,243,328,Sri Lanka
+2007,Bermuda,Bangladesh,128,176,Bangladesh
+2007,Canada,Kenya,230,61,Kenya
+2007,England,New Zealand,33,279,New Zealand
+2007,England,Canada,243,147,England
+2007,New Zealand,Kenya,112,54,New Zealand
+2007,New Zealand,Canada,358,301,New Zealand
+2007,Kenya,England,381,13,England
+2007,West Indies,Pakistan,332,193,West Indies
+2007,Ireland,Zimbabwe,214,365,Draw
+2007,Pakistan,Ireland,83,282,Ireland
+2007,Zimbabwe,West Indies,33,235,West Indies
+2007,Pakistan,Zimbabwe,139,119,Zimbabwe
+2007,Ireland,West Indies,381,303,West Indies
+2007,Australia,West Indies,387,127,Australia
+2007,Sri Lanka,South Africa,267,198,South Africa
+2007,West Indies,New Zealand,99,323,New Zealand
+2007,England,Ireland,149,378,England
+2007,Bangladesh,Australia,109,178,Australia
+2007,Sri Lanka,West Indies,379,80,Sri Lanka
+2007,Bangladesh,New Zealand,141,167,New Zealand
+2007,Ireland,South Africa,213,147,South Africa
+2007,Sri Lanka,England,167,241,Sri Lanka
+2007,Bangladesh,South Africa,331,364,Bangladesh
+2007,England,Australia,329,287,Australia
+2007,New Zealand,Ireland,342,216,New Zealand
+2007,South Africa,West Indies,129,23,South Africa
+2007,Bangladesh,England,231,22,England
+2007,New Zealand,Sri Lanka,310,12,Sri Lanka
+2007,Ireland,Australia,377,366,Australia
+2007,South Africa,New Zealand,291,352,New Zealand
+2007,Ireland,Bangladesh,124,251,Ireland
+2007,Sri Lanka,Australia,62,109,Australia
+2007,England,South Africa,131,258,South Africa
+2007,Ireland,Sri Lanka,92,54,Sri Lanka
+2007,West Indies,Bangladesh,67,81,West Indies
+2007,Australia,New Zealand,243,123,Australia
+2007,West Indies,England,323,393,England
+2011,West Indies,Kenya,176,31,West Indies
+2011,Sri Lanka,Netherlands,196,339,Sri Lanka
+2011,Canada,Bangladesh,233,297,Bangladesh
+2011,New Zealand,Ireland,175,270,New Zealand
+2011,Zimbabwe,South Africa,78,341,South Africa
+2011,India,Australia,164,126,India
+2011,Zimbabwe,Ireland,126,23,Ireland
+2011,Kenya,Netherlands,326,2,Netherlands
+2011,Pakistan,Bangladesh,173,117,Pakistan
+2011,Australia,South Africa,189,358,South Africa
+2011,West Indies,Sri Lanka,244,116,Sri Lanka
+2011,England,Canada,139,118,England
+2011,India,New Zealand,257,117,India
+2011,England,Pakistan,201,131,England
+2011,Kenya,New Zealand,285,116,New Zealand
+2011,Sri Lanka,Canada,168,360,Sri Lanka
+2011,Australia,Zimbabwe,8,394,Australia
+2011,Pakistan,Kenya,372,9,Pakistan
+2011,New Zealand,Australia,377,153,Australia
+2011,Pakistan,Sri Lanka,305,280,Pakistan
+2011,Zimbabwe,Canada,339,12,Zimbabwe
+2011,Kenya,Sri Lanka,338,12,Sri Lanka
+2011,Pakistan,Canada,209,55,Pakistan
+2011,Zimbabwe,New Zealand,223,45,New Zealand
+2011,Sri Lanka,Australia,63,197,Sri Lanka
+2011,Kenya,Canada,223,238,Canada
+2011,New Zealand,Pakistan,217,256,New Zealand
+2011,Sri Lanka,Zimbabwe,226,190,Sri Lanka
+2011,New Zealand,Canada,243,347,New Zealand
+2011,Australia,Kenya,75,140,Australia
+2011,Zimbabwe,Pakistan,35,33,Pakistan
+2011,Canada,Australia,261,378,Australia
+2011,Sri Lanka,New Zealand,284,171,Sri Lanka
+2011,Australia,Pakistan,204,73,Pakistan
+2011,Zimbabwe,Kenya,137,231,Zimbabwe
+2011,India,Bangladesh,146,317,India
+2011,Netherlands,England,30,245,England
+2011,West Indies,South Africa,314,134,South Africa
+2011,Bangladesh,Ireland,186,68,Bangladesh
+2011,India,England,196,150,Draw
+2011,West Indies,Netherlands,178,118,West Indies
+2011,England,Ireland,328,253,Ireland
+2011,South Africa,Netherlands,227,364,South Africa
+2011,Bangladesh,West Indies,251,96,West Indies
+2011,England,South Africa,390,311,England
+2011,Ireland,India,251,380,India
+2011,Netherlands,India,381,109,India
+2011,West Indies,Ireland,122,367,West Indies
+2011,England,Bangladesh,227,47,Bangladesh
+2011,India,South Africa,327,229,South Africa
+2011,Netherlands,Bangladesh,48,19,Bangladesh
+2011,South Africa,Ireland,53,243,South Africa
+2011,England,West Indies,109,73,England
+2011,Netherlands,Ireland,357,50,Ireland
+2011,South Africa,Bangladesh,342,380,Bangladesh
+2011,India,West Indies,199,369,India
+2011,West Indies,Pakistan,142,51,Pakistan
+2011,Australia,India,7,289,India
+2011,New Zealand,South Africa,98,191,New Zealand
+2011,England,Sri Lanka,63,141,Sri Lanka
+2011,New Zealand,Sri Lanka,382,332,Sri Lanka
+2011,India,Pakistan,79,307,India
+2011,Sri Lanka,India,157,115,India
+2015,New Zealand,Sri Lanka,35,379,New Zealand
+2015,Australia,England,53,348,Australia
+2015,Scotland,New Zealand,176,72,New Zealand
+2015,Bangladesh,Afghanistan,238,97,Bangladesh
+2015,England,New Zealand,258,326,New Zealand
+2015,Australia,Bangladesh,95,126,Draw
+2015,Afghanistan,Sri Lanka,299,277,Sri Lanka
+2015,England,Scotland,284,25,England
+2015,Scotland,Afghanistan,59,16,Afghanistan
+2015,Sri Lanka,Bangladesh,16,75,Sri Lanka
+2015,Australia,New Zealand,261,38,New Zealand
+2015,England,Sri Lanka,338,286,Sri Lanka
+2015,Australia,Afghanistan,398,38,Australia
+2015,Scotland,Bangladesh,370,275,Bangladesh
+2015,Afghanistan,New Zealand,284,3,New Zealand
+2015,Australia,Sri Lanka,363,51,Australia
+2015,Bangladesh,England,284,125,Bangladesh
+2015,Sri Lanka,Scotland,396,328,Sri Lanka
+2015,Bangladesh,New Zealand,32,90,New Zealand
+2015,Afghanistan,England,215,214,Afghanistan
+2015,Scotland,Australia,205,43,Australia
+2015,South Africa,Zimbabwe,325,292,South Africa
+2015,India,Pakistan,43,280,India
+2015,West Indies,Ireland,257,190,Ireland
+2015,United Arab Emirates,Zimbabwe,253,225,Zimbabwe
+2015,West Indies,Pakistan,185,2,West Indies
+2015,India,South Africa,351,28,India
+2015,West Indies,Zimbabwe,326,377,West Indies
+2015,United Arab Emirates,Ireland,80,170,Ireland
+2015,South Africa,West Indies,231,280,South Africa
+2015,United Arab Emirates,India,109,378,India
+2015,Pakistan,Zimbabwe,57,114,Pakistan
+2015,South Africa,Ireland,257,195,South Africa
+2015,Pakistan,United Arab Emirates,195,133,Pakistan
+2015,West Indies,India,230,363,India
+2015,Pakistan,South Africa,178,245,Pakistan
+2015,Ireland,Zimbabwe,83,338,Ireland
+2015,Ireland,India,45,181,India
+2015,South Africa,United Arab Emirates,250,199,South Africa
+2015,Zimbabwe,India,311,324,India
+2015,United Arab Emirates,West Indies,338,28,West Indies
+2015,Ireland,Pakistan,77,386,Pakistan
+2015,Sri Lanka,South Africa,196,110,South Africa
+2015,India,Bangladesh,239,259,India
+2015,Pakistan,Australia,364,395,Australia
+2015,New Zealand,West Indies,63,222,New Zealand
+2015,South Africa,New Zealand,299,78,New Zealand
+2015,Australia,India,344,38,Australia
+2015,New Zealand,Australia,339,299,Australia
+2019,Pakistan,Afghanistan,148,311,Afghanistan
+2019,South Africa,Sri Lanka,361,173,South Africa
+2019,Australia,England,175,93,Australia
+2019,India,New Zealand,238,192,New Zealand
+2019,South Africa,West Indies,259,110,No result
+2019,Pakistan,Bangladesh,35,182,Match abandoned
+2019,Sri Lanka,Australia,68,386,Australia
+2019,Afghanistan,England,28,250,England
+2019,West Indies,New Zealand,127,344,West Indies
+2019,India,Bangladesh,215,57,India
+2019,England,South Africa,107,79,England
+2019,Pakistan,West Indies,201,294,West Indies
+2019,Sri Lanka,New Zealand,336,236,New Zealand
+2019,Afghanistan,Australia,137,396,Australia
+2019,Bangladesh,South Africa,338,225,Bangladesh
+2019,Pakistan,England,299,155,Pakistan
+2019,Sri Lanka,Afghanistan,109,263,Sri Lanka
+2019,South Africa,India,19,273,India
+2019,Bangladesh,New Zealand,286,301,New Zealand
+2019,Australia,West Indies,273,96,Australia
+2019,Pakistan,Sri Lanka,371,41,Match abandoned
+2019,England,Bangladesh,32,352,England
+2019,Afghanistan,New Zealand,195,232,New Zealand
+2019,India,Australia,231,268,India
+2019,South Africa,West Indies,266,150,No result
+2019,Bangladesh,Sri Lanka,310,267,Match abandoned
+2019,Australia,Pakistan,146,335,Australia
+2019,India,New Zealand,6,352,Match abandoned
+2019,West Indies,England,210,82,England
+2019,Australia,Sri Lanka,161,301,Australia
+2019,Afghanistan,South Africa,131,189,South Africa
+2019,India,Pakistan,287,206,India
+2019,West Indies,Bangladesh,36,286,Bangladesh
+2019,England,Afghanistan,32,389,England
+2019,South Africa,New Zealand,237,325,New Zealand
+2019,Australia,Bangladesh,111,111,Australia
+2019,Sri Lanka,England,367,184,Sri Lanka
+2019,India,Afghanistan,266,49,India
+2019,New Zealand,West Indies,163,381,New Zealand
+2019,Pakistan,South Africa,242,202,Pakistan
+2019,Bangladesh,Afghanistan,253,185,Bangladesh
+2019,Australia,England,365,117,Australia
+2019,New Zealand,Pakistan,312,42,Pakistan
+2019,India,West Indies,122,341,India
+2019,Sri Lanka,South Africa,276,81,South Africa
+2019,Afghanistan,Pakistan,261,209,Pakistan
+2019,Australia,New Zealand,73,50,Australia
+2019,England,India,377,190,England
+2019,Sri Lanka,West Indies,263,381,Sri Lanka
+2019,India,Bangladesh,231,134,India
+2019,England,New Zealand,304,43,England
+2019,West Indies,Afghanistan,78,44,West Indies
+2019,Pakistan,Bangladesh,313,28,Pakistan
+2019,Sri Lanka,India,241,269,India
+2019,South Africa,Australia,317,228,South Africa
+2019,New Zealand,India,246,400,New Zealand
+2019,Australia,England,79,124,England
+2019,New Zealand,England,206,146,England
